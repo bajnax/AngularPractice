@@ -1,0 +1,35 @@
+.main {
+    height: 100%;
+    width: 100%;
+    background-color: rgb(173, 37, 37);
+    margin: auto;
+    padding: S0;
+}
+
+.header {
+    height: 50px;
+    width: 100%;
+    margin: 0;
+}
+
+.container {
+    height: 500px;
+    width: 100%;
+    background-color: wheat;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.footer {
+    height: 50px;
+    width: 100%;
+    margin: 0;
+}
+
+.menu {
+    float: left;
+    display: block;
+    width: 200px;
+    height: 50xp;
+    clear: left;
+}
